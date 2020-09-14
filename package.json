@@ -1,0 +1,22 @@
+{
+  "name": "thinkverse",
+  "version": "1.0.0",
+  "description": "Console out latest information about Thinkverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkverse/thinkverse-cli.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "Kim 'Thinkverse' Hallberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinkverse/thinkverse-cli/issues"
+  },
+  "homepage": "https://github.com/thinkverse/thinkverse-cli#readme"
+}
