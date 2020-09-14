@@ -4,8 +4,16 @@ Console out latest information about [thinkverse]. 🤘
 
 ### Installation
 
+##### npm
+
 ```bash
 $ npm install thinkverse
+```
+
+##### yarn
+
+```bash
+$ yarn add thinkverse
 ```
 
 ### Usage
