@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const { information } = require('./information')
 const { render } = require('./render')
 
