@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/thinkverse/thinkverse-cli.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "author": "Kim 'Thinkverse' Hallberg",
   "license": "MIT",
   "bugs": {
